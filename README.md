@@ -1,6 +1,6 @@
 # Hi, I am Amaan 👋  
 
-Product Manager with a strong engineering foundation and 3 years of hands on experience building, scaling, and optimizing consumer facing products across fintech and SaaS. I work at the intersection of product strategy, data, user psychology, and execution.
+Product Manager with a strong engineering foundation and 5 years of hands on experience building, scaling, and optimizing consumer facing products across fintech and SaaS. I work at the intersection of product strategy, data, user psychology, and execution.
 
 I enjoy solving problems where users trust products with their money, time, or long term decisions.
 
